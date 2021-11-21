@@ -18,3 +18,45 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.country__flag {
+  width: 100px;
+  height: auto;
+  margin-left: 5px;
+}
+
+.country__name {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 0.5;
+}
+
+.country__capital{
+  font-size: 24px;
+  line-height: 0.5;
+}
+
+.country__population{
+  font-size: 24px;
+  line-height: 0.5;
+}
+
+.country__languages{
+  font-size: 24px;
+  line-height: 0.5;
+}
+
+.country__item--flag {
+  width: 30px;
+  height: auto;
+  margin-right: 5px;
+  
+}
+
+.country__item--name{
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.country-list {
+  list-style: none;
+}
